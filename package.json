@@ -1,0 +1,30 @@
+{
+  "name": "diskviz",
+  "version": "1.0.0",
+  "description": "A small, colorful disk usage visualizer for the terminal — static bar-chart reports or interactive ncdu-style navigation.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "diskviz": "./bin/diskviz.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "disk",
+    "disk-usage",
+    "cli",
+    "ncdu",
+    "terminal"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "commander": "^15.0.0"
+  }
+}
