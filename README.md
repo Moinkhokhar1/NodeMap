@@ -56,6 +56,24 @@ diskviz ~ --interactive
 - Large trees are scanned with a bounded concurrency pool so it won't try
   to open thousands of file descriptors at once.
 
-## License
+## 🤝 Contributing
 
-MIT
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📄 License
+
+© 2026 moinworksonlocalhost. All rights reserved.
+
+This project is **not open source**. No part of this codebase may be copied, modified, distributed, or used without explicit written permission from the author.
+
+---
+
+<div align="center">
+
+**Built with ❤️ by [Moinworksonlocalhost](https://moinworksonlocalhost.onrender.com/)**
+
+*Making payments accessible everywhere — even without a single bar of signal.*
+
+</div>
