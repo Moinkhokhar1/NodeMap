@@ -1,4 +1,4 @@
-# diskviz
+# NodeMap
 
 A small, colorful disk usage visualizer for the terminal — a lightweight
 reimagining of `ncdu`. Read-only: it never deletes or modifies anything.
